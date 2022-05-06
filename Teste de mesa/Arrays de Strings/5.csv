@@ -1,0 +1,8 @@
+function alteraString;;;;;;
+;i;i < string.length;"string[ i ] = ""p""";"newString = """"";i++;return
+;0;true;"string[ 0 ] = ""p"" : false";"newString += string[ 0 ] : ""O""";0 + 1 = 1;-
+;1;true;"string[ 1 ] = ""p"" : false";"newString += string[ 1 ] : ""  """;1 + 1 = 2;-
+;2;true;"string[ 2 ] = ""p"" : true";"newString += ""P""";2 + 1 = 3;-
+;...;...;...;...;...;...
+;37;true;"string[ 37 ] = ""p"" : false";"newString += string[ 37 ] : ""o""";37 + 1 = 38;-
+;38;false;-;-;-;"""O Pelo do Peito do Pé de Pedro é Preto"""

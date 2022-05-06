@@ -1,0 +1,8 @@
+function contaCharA;;;;;;
+;i;i < string.length;"string[i] == ""a"" || string[i] == ""A""";recebeString++;i++;return
+;0;true;"string[0] = ""a"" || ""A"" : true";0 + 1 = 1;0 + 1 = 1;-
+;1;true;"string[1] = ""a"" || ""A"" : false";-;1 + 1 = 2;-
+;2;true;"string[2] = ""a"" || ""A"" : false";-;2 + 1 = 3;-
+;...;...;...;...;...;...
+;17;true;"string[17] = ""a"" || ""A"" : true";5 + 1 = 6;17 + 1 = 18;-
+;18;false;-;-;-;6

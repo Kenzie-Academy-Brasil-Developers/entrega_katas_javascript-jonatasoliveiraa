@@ -1,0 +1,8 @@
+function formataString;;;;;;
+;i;i < string.length;"string[ i ] == ""o"" || string[ i ] == ""O""";"stringFormatada = """"";i++;return
+;0;true;"string[ 0 ] == ""o"" || string[ 0 ] == ""O"" : true";"stringFormatada += ""0""";0 + 1 = 1;-
+;1;true;"string[ 1 ] == ""o"" || string[ 1 ] == ""O"" : false";"stringFormatada += string[ 1 ] : ""  """;1 + 1 = 2;-
+;2;true;"string[ 2 ] == ""o"" || string[ 2 ] == ""O"" : false";"stringFormatada += string[ 2 ] : ""r""";2 + 1 = 3;-
+;...;...;...;...;...;...
+;33;true;"string[ 33 ] == ""o"" || string[ 33 ] == ""O"" : false";"stringFormatada += string[ 33 ] : ""a""";33 + 1 = 34;-
+;34;false;-;-;-;"""0 rat0 r0eu a r0upa d0 rei de r0ma"""

@@ -1,0 +1,9 @@
+function stringImpar;;;;;;
+;i;i < split.length;split[ i ].length % 2 = 1;array.push(split[ i ]);i++;return
+;0;true;split[ 0 ].length % 2 = 1 : false;-;0 + 1 = 1;-
+;1;true;split[ 1 ].length % 2 = 1 : true;vou;1 + 1 = 2;-
+;2;true;split[ 2 ].length % 2 = 1 : true;ser;2 + 1 = 3;-
+;...;...;...;...;...;...
+;6;true;split[ 6 ].length % 2 = 1 : true;a;6 + 1 = 7;-
+;7;true;split[ 7 ].length % 2 = 1 : false;-;7 + 1 = 8;-
+;8;false;-;-;-;[ 'vou', 'ser', 'Dev', 'junto', 'com', 'a' ]
